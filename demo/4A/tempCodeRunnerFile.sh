@@ -1,0 +1,1 @@
+echo "input/4A/84822638.cpp" "input/4A/84822639.cpp"> equal.csv
